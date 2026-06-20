@@ -1,0 +1,5 @@
+.env
+*.db
+orders*.csv
+__pycache__/
+*.pyc
